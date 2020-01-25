@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Die Film App</string>
+    <string name="open_review">Film bewerten</string>
+    <string name="movie_detail_director_label">Regisseur</string>
+    <string name="movie_detail_actors_label">Schauspieler</string>
+    <string name="movie_detail_genre_label">Genre</string>
+    <string name="movie_detail_plot_label">Handlung</string>
+    <string name="review_movie">Jetzt bewerten!</string>
+</resources>
