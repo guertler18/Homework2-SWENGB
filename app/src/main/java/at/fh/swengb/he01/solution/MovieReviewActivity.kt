@@ -61,7 +61,7 @@ class MovieReviewActivity : AppCompatActivity() {
                     movie_review_header.text = it.title
                 },
                 error = {
-                    Log.e("fuck","es is foisch")
+                    Log.e("wrong","no movie found")
                 }
             )
 
@@ -76,7 +76,7 @@ class MovieReviewActivity : AppCompatActivity() {
                         finish()
                     },
                     error = {
-                        Log.e("fuck","es is foisch")
+                        Log.e("wrong","no movie found")
                     }
                 )
 
